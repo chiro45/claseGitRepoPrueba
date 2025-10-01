@@ -7,3 +7,10 @@
 h1 {
   color: #f00;
 }
+
+body {
+  background-color: #3b3a3a;
+  padding: 2rem;
+  margin: 2rem;
+  color: #fff;
+}
